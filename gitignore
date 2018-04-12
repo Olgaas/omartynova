@@ -31,4 +31,8 @@
 *.out
 *.app
 
--target
+target
+
+.idea
+*.iml
+
