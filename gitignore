@@ -31,8 +31,9 @@
 *.out
 *.app
 
-target
+  target
 
-.idea
+*.idea
 *.iml
+*.class
 
